@@ -1,0 +1,9 @@
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\bin\Debug\UartTeszter.exe
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\bin\Debug\UartTeszter.pdb
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.csprojAssemblyReference.cache
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.Form1.resources
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.Properties.Resources.resources
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.csproj.GenerateResource.cache
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.csproj.CoreCompileInputs.cache
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.exe
+C:\Users\Bezi\Source\Repos\UartTeszter\UartTeszter\obj\Debug\UartTeszter.pdb
